@@ -6,7 +6,7 @@ description='This PIP only for Encoding Cracker File',
 author='cracker911181',
 url='https://github.com/cracker911181/cracker_enc',
 packages=['cracker_enc'],
-license=licence.txt,
+license=cracker_enc/licence.txt,
 requires='python3',
 
 zip_safe=False)
