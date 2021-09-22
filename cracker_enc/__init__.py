@@ -1,0 +1,1 @@
+from .cracker_enc import cracker
