@@ -5,7 +5,7 @@ version='2.0',
 description='This PIP only for Encoding Cracker File',
 author='cracker911181',
 url='https://github.com/cracker911181/cracker_enc',
-packages=['cracker_enc'],
 requires='python3',
+packages=['cracker_enc'],
 
 zip_safe=False)
