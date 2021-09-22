@@ -8,5 +8,5 @@ url='https://github.com/cracker911181/cracker_enc',
 packages=['cracker_enc'],
 license=licence.txt,
 requires='python3',
-required-by='nothing',
+
 zip_safe=False)
