@@ -25,7 +25,9 @@ cracker.encode("/storage/emulated/0/tester/testing.py")
 
 
 
-	+++± For Exicute Encoded Code ++++
+	++++ For Exicute Encoded Code ++++
+
+{Code Example:}
 
 from cracker_enc import cracker
 
