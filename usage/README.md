@@ -1,3 +1,7 @@
+<div align="center">
+## CRACKER911181's Encoder
+This is a mixed encoder by cracker911181
+
 ## [Install pip:]
 
 	pip install git+https://github.com/cracker911181/cracker_enc
