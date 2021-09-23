@@ -25,3 +25,13 @@ cracker.encode("/storage/emulated/0/tester/testing.py")
 
 
 
+	+++± For Exicute Encoded Code ++++
+
+from cracker_enc import cracker
+
+# cracker_enc is modiule name and cracker is class name
+
+cracker.exe("your encoded code for exicute")
+
+# cracker is the main class and exe is the function for exicute encoded code 
+
