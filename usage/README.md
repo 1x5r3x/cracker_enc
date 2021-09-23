@@ -21,4 +21,4 @@
 
 	This Encoder Has 1 classes
 	     
- 	     { cracker }
+ 	      { cracker }
