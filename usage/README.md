@@ -31,3 +31,4 @@
 <div align="center">
 <h3> did you want to know, how to use this pip to encode your file?<h3>
 <br>
+<pre>	Read This File</pre>
