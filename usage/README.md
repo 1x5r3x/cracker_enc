@@ -8,7 +8,7 @@
 	pip install git+https://github.com/cracker911181/cracker_enc
 </div>
 <div align="center">
-## [Buildin Function:]</div>
+<h2> [Buildin Function:]</h2></div>
 	
 
 	1.encode -->> For Encoding
@@ -17,7 +17,7 @@
 	
 
 <div align="center">
-## [Classes: ]</div>
+<h2> [Classes:]</h2></div>
 
 	This Encoder Has 1 classes
 	     
