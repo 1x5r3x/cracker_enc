@@ -1,7 +1,7 @@
 <div align="center">
 <h2> CRACKER911181's Encoder</h2>
 <br>
-This is a mixed encoder by cracker911181
+This is a mixed encoder by CRACKER911181<br><br>
 
 ## [Install pip:]
 
