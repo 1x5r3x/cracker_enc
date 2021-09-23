@@ -15,4 +15,4 @@
 
 ## [version:]
 
-<pre><i>	2.0</i></pre>
+<pre><i>	  2.0</i></pre>
