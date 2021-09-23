@@ -1,5 +1,5 @@
 <div align="center">
-## CRACKER911181's Encoder
+<h2> CRACKER911181's Encoder</h2>
 This is a mixed encoder by cracker911181
 
 ## [Install pip:]
