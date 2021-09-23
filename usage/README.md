@@ -22,3 +22,7 @@
 	This Encoder Has 1 classes
 	     
  	      { cracker }
+
+
+<div align="center">
+<h3> did you want to know, how to use this pip to encode your file?<h3>
