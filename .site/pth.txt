@@ -1,0 +1,11 @@
+Path:
+
+/data/data/com.termux/files/usr/lib/python3.9/site-packages
+
+	+-+-+-+-+-+-+-+ +-+-+-+-+-+-+
+	|C|R|A|C|K|E|R| |9|1|1|1|8|1|
+	+-+-+-+-+-+-+-+ +-+-+-+-+-+-+
+
+		=============
+		|  encoder  |
+		=============
