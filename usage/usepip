@@ -1,3 +1,12 @@
 
-
 -------------{CRACKER ENCODER}--------------
+
+[Modiule Name==> cracker_enc
+Main Class   ==> cracker
+function     ==> 2
+		{1.For Encoding -* encode()
+		 2.For Exicute  -* exe()
+Sicret       ==> nothing]
+
+
+           ++++ For Encode ++++
