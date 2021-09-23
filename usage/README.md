@@ -7,15 +7,17 @@
 
 	pip install git+https://github.com/cracker911181/cracker_enc
 </div>
-
-## [Buildin Function:]
+<div align="center">
+## [Buildin Function:]</div>
 	
 
 	1.encode -->> For Encoding
 	2.exe    -->> For Exicute Encoded File
 
 	
-## [Classes: ]
+
+<div align="center">
+## [Classes: ]</div>
 
 	This Encoder Has 1 classes
 	     
