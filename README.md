@@ -11,3 +11,8 @@
 
      Crack your world, if you can
         Don't copy my style
+
+
+## [version:]
+
+	<i>2.0</i>
