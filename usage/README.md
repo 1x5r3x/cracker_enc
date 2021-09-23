@@ -30,5 +30,5 @@
 
 <div align="center">
 <h3> did you want to know, how to use this pip to encode your file?<h3>
-<br>
-<pre>	Read This File</pre>
+</div>
+<pre>	<a href="https://github.com/cracker911181/cracker_enc/blob/a6b54e65b2f93a891d08b2ad34a4d7dde1968224/usage/usepip">Read This File</a></pre>
