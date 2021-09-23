@@ -21,4 +21,4 @@
 
 # [For All Help:]
 
-<pre>	Visit 👉<a href="https://github.com/cracker911181/cracker_enc/blob/f5a0168219237686058018130e41047ac84ee3ce/usage/usepip">This File</a>👈</pre>
+<pre>    Visit 👉<a href="https://github.com/cracker911181/cracker_enc/blob/f5a0168219237686058018130e41047ac84ee3ce/usage/usepip">This File</a>👈</pre>
