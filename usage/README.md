@@ -10,6 +10,7 @@
 
 ## [Buildin Function:]
 	
+
 	1.encode -->> For Encoding
 	2.exe    -->> For Exicute Encoded File
 
