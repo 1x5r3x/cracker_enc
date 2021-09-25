@@ -8,3 +8,4 @@ url='https://github.com/cracker911181/cracker_enc',
 packages=['cracker_enc'],
 
 zip_safe=False)
+
